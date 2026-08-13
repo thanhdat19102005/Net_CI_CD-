@@ -6,10 +6,10 @@ pipeline {
         FTP_HOST = "site84945.siteasp.net"
         FTP_USER = "site84945"
         
-        // Fix lỗi thiếu libicu trên Docker Linux
+        // Fix lỗi thiếu libicu trên Docker Linux (ép .NET dùng chế độ Invariant)
         DOTNET_SYSTEM_GLOBALIZATION_INVARIANT = "1"
         
-        // Đường dẫn để hệ thống nhận diện lệnh dotnet sau khi tải về
+        // Đường dẫn để hệ thống nhận diện lệnh dotnet sau khi cài đặt
         DOTNET_ROOT = "${WORKSPACE}/.dotnet"
         PATH = "${WORKSPACE}/.dotnet:${env.PATH}"
     }
@@ -24,7 +24,7 @@ pipeline {
 
         stage('2. Stop IIS Server (Bảo trì)') {
             steps {
-                // Lấy chìa khóa từ két sắt
+                // Lấy chìa khóa từ két sắt (đảm bảo Credential ID của bạn là 'ftp-pass')
                 withCredentials([string(credentialsId: 'ftp-pass', variable: 'FTP_PASS')]) {
                     sh '''
                     echo "Hệ thống đang bảo trì cập nhật code..." > app_offline.htm
@@ -38,7 +38,7 @@ pipeline {
         stage('3. Build & Publish .NET 8') {
             steps {
                 sh '''
-                # Tải và cài đặt .NET 8 SDK trực tiếp từ Microsoft
+                # Tải và cài đặt .NET 8 SDK trực tiếp từ Microsoft (để tránh lỗi Plugin Jenkins)
                 curl -sSL https://dot.net/v1/dotnet-install.sh -o dotnet-install.sh
                 bash dotnet-install.sh --channel 8.0 --install-dir ./.dotnet
                 
@@ -68,11 +68,9 @@ pipeline {
 
         stage('5. Start IIS Server') {
             steps {
-                // Xóa file bảo trì để web hoạt động lại với code mới
+                // Xóa file bảo trì để web hoạt động lại (|| true giúp pipeline không bị đỏ nếu file không tồn tại)
                 withCredentials([string(credentialsId: 'ftp-pass', variable: 'FTP_PASS')]) {
-                    sh '''
-                    curl ftp://${FTP_HOST}/wwwroot/ -X "DELE app_offline.htm" --user ${FTP_USER}:${FTP_PASS}
-                    '''
+                    sh 'curl -Q "-DELE app_offline.htm" ftp://${FTP_HOST}/wwwroot/ --user ${FTP_USER}:${FTP_PASS} || true'
                 }
             }
         }
