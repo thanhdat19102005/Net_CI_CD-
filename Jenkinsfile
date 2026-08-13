@@ -24,7 +24,7 @@ pipeline {
 
         stage('2. Stop IIS Server (Bảo trì)') {
             steps {
-                // Lấy chìa khóa từ két sắt (nhớ đảm bảo bạn đã tạo credential ID là 'ftp-pass')
+                // Lấy chìa khóa từ két sắt
                 withCredentials([string(credentialsId: 'ftp-pass', variable: 'FTP_PASS')]) {
                     sh '''
                     echo "Hệ thống đang bảo trì cập nhật code..." > app_offline.htm
@@ -38,21 +38,24 @@ pipeline {
         stage('3. Build & Publish .NET 8') {
             steps {
                 sh '''
-                # Tải và cài đặt .NET 8 SDK trực tiếp từ Microsoft (để tránh lỗi Plugin)
+                # Tải và cài đặt .NET 8 SDK trực tiếp từ Microsoft
                 curl -sSL https://dot.net/v1/dotnet-install.sh -o dotnet-install.sh
                 bash dotnet-install.sh --channel 8.0 --install-dir ./.dotnet
+                
+                # Chui vào thư mục chứa code (ClothHub) để chạy lệnh dotnet
+                cd ClothHub
                 
                 # Build và Đóng gói code
                 dotnet restore
                 dotnet build --configuration Release
-                dotnet publish --configuration Release --output ./publish_output
+                dotnet publish --configuration Release --output ../publish_output
                 '''
             }
         }
 
         stage('4. Deploy to MonsterASP') {
             steps {
-                // Đẩy toàn bộ ruột thư mục publish_output lên 'MonsterServer' (đã fix lỗi missing parameter)
+                // Đẩy toàn bộ ruột thư mục publish_output lên 'MonsterServer'
                 ftpPublisher alwaysPublishFromMaster: false, continueOnError: false, failOnError: true, masterNodeName: '', paramPublish: null, publishers: [
                     [configName: 'MonsterServer', 
                      transfers: [
