@@ -1,13 +1,15 @@
 pipeline {
     agent any
 
-    // ĐÃ XÓA KHỐI tools {} CỦA JENKINS VÌ PLUGIN ĐANG BỊ LỖI
-
     environment {
+        // Thông tin host và user FTP của MonsterASP
         FTP_HOST = "site84945.siteasp.net"
         FTP_USER = "site84945"
         
-        // Thêm đường dẫn để hệ thống nhận diện được lệnh dotnet sau khi tải về
+        // Fix lỗi thiếu libicu trên Docker Linux
+        DOTNET_SYSTEM_GLOBALIZATION_INVARIANT = "1"
+        
+        // Đường dẫn để hệ thống nhận diện lệnh dotnet sau khi tải về
         DOTNET_ROOT = "${WORKSPACE}/.dotnet"
         PATH = "${WORKSPACE}/.dotnet:${env.PATH}"
     }
@@ -15,12 +17,14 @@ pipeline {
     stages {
         stage('1. Checkout Code') {
             steps {
+                // Tự động lấy cấu hình Git từ Job của Jenkins
                 checkout scm 
             }
         }
 
         stage('2. Stop IIS Server (Bảo trì)') {
             steps {
+                // Lấy chìa khóa từ két sắt (nhớ đảm bảo bạn đã tạo credential ID là 'ftp-pass')
                 withCredentials([string(credentialsId: 'ftp-pass', variable: 'FTP_PASS')]) {
                     sh '''
                     echo "Hệ thống đang bảo trì cập nhật code..." > app_offline.htm
@@ -34,13 +38,11 @@ pipeline {
         stage('3. Build & Publish .NET 8') {
             steps {
                 sh '''
-                # 1. Tải script cài đặt trực tiếp từ Microsoft
+                # Tải và cài đặt .NET 8 SDK trực tiếp từ Microsoft (để tránh lỗi Plugin)
                 curl -sSL https://dot.net/v1/dotnet-install.sh -o dotnet-install.sh
-                
-                # 2. Cài đặt .NET 8 vào thư mục .dotnet ẩn trong project
                 bash dotnet-install.sh --channel 8.0 --install-dir ./.dotnet
                 
-                # 3. Tiến hành Build code như bình thường
+                # Build và Đóng gói code
                 dotnet restore
                 dotnet build --configuration Release
                 dotnet publish --configuration Release --output ./publish_output
@@ -50,6 +52,7 @@ pipeline {
 
         stage('4. Deploy to MonsterASP') {
             steps {
+                // Đẩy toàn bộ ruột thư mục publish_output lên 'MonsterServer' (đã fix lỗi missing parameter)
                 ftpPublisher alwaysPublishFromMaster: false, continueOnError: false, failOnError: true, masterNodeName: '', paramPublish: null, publishers: [
                     [configName: 'MonsterServer', 
                      transfers: [
@@ -62,6 +65,7 @@ pipeline {
 
         stage('5. Start IIS Server') {
             steps {
+                // Xóa file bảo trì để web hoạt động lại với code mới
                 withCredentials([string(credentialsId: 'ftp-pass', variable: 'FTP_PASS')]) {
                     sh '''
                     curl ftp://${FTP_HOST}/wwwroot/ -X "DELE app_offline.htm" --user ${FTP_USER}:${FTP_PASS}
