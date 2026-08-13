@@ -45,8 +45,8 @@ pipeline {
 
         stage('4. Deploy to MonsterASP') {
             steps {
-                // Đẩy toàn bộ ruột thư mục publish_output lên 'MonsterServer'
-                ftpPublisher alwaysPublishFromMaster: false, continueOnError: false, failOnError: true, publishers: [
+                // Đã bổ sung masterNodeName và paramPublish để fix lỗi
+                ftpPublisher alwaysPublishFromMaster: false, continueOnError: false, failOnError: true, masterNodeName: '', paramPublish: null, publishers: [
                     [configName: 'MonsterServer', 
                      transfers: [
                          [cleanRemote: false, excludes: '', flatten: false, makeEmptyDirs: false, noDefaultExcludes: false, patternSeparator: '[, ]+', remoteDirectory: '', remoteDirectorySDF: false, removePrefix: 'publish_output', sourceFiles: 'publish_output/**']
@@ -68,5 +68,7 @@ pipeline {
         }
     }
 }
+
+
 
 
