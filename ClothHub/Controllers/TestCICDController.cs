@@ -6,7 +6,7 @@ namespace ClothHub.Controllers
     [ApiController]
     public class TestCICDController : ControllerBase
     {
-        [HttpGet("pingggggg")]
+        [HttpGet("ping")]
         public IActionResult CheckStatus()
         {
             return Ok(new
