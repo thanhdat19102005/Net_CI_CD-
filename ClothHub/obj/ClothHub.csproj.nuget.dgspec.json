@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hope0\\Desktop\\ClothHub\\ClothHub\\ClothHub.csproj": {}
+    "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\ClothHub.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hope0\\Desktop\\ClothHub\\ClothHub\\ClothHub.csproj": {
+    "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\ClothHub.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hope0\\Desktop\\ClothHub\\ClothHub\\ClothHub.csproj",
+        "projectUniqueName": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\ClothHub.csproj",
         "projectName": "ClothHub",
-        "projectPath": "C:\\Users\\hope0\\Desktop\\ClothHub\\ClothHub\\ClothHub.csproj",
+        "projectPath": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\ClothHub.csproj",
         "packagesPath": "C:\\Users\\hope0\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hope0\\Desktop\\ClothHub\\ClothHub\\obj\\",
+        "outputPath": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

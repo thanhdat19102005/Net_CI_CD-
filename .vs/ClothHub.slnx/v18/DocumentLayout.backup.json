@@ -1,105 +1,109 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "G:\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc NTT\\Qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\ClothHub\\",
+  "WorkspaceRootPath": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|g:\\\u0111\u1ED3 \u00E1n m\u00F4n h\u1ECDc ntt\\qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\clothhub\\clothhub\\models\\appusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|solutionrelative:clothhub\\models\\appusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|g:\\\u0111\u1ED3 \u00E1n m\u00F4n h\u1ECDc ntt\\qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\clothhub\\clothhub\\repositories\\identityseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|solutionrelative:clothhub\\repositories\\identityseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|g:\\\u0111\u1ED3 \u00E1n m\u00F4n h\u1ECDc ntt\\qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\clothhub\\clothhub\\models\\orderdetailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|solutionrelative:clothhub\\models\\orderdetailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|g:\\\u0111\u1ED3 \u00E1n m\u00F4n h\u1ECDc ntt\\qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\clothhub\\clothhub\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|solutionrelative:clothhub\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|g:\\\u0111\u1ED3 \u00E1n m\u00F4n h\u1ECDc ntt\\qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\clothhub\\clothhub\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|solutionrelative:clothhub\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|g:\\\u0111\u1ED3 \u00E1n m\u00F4n h\u1ECDc ntt\\qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\clothhub\\clothhub\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|solutionrelative:clothhub\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|g:\\\u0111\u1ED3 \u00E1n m\u00F4n h\u1ECDc ntt\\qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\clothhub\\clothhub\\repositories\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|solutionrelative:clothhub\\repositories\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|g:\\\u0111\u1ED3 \u00E1n m\u00F4n h\u1ECDc ntt\\qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\clothhub\\clothhub\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|solutionrelative:clothhub\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|g:\\\u0111\u1ED3 \u00E1n m\u00F4n h\u1ECDc ntt\\qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\clothhub\\clothhub\\controllers\\sizecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|solutionrelative:clothhub\\controllers\\sizecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|g:\\\u0111\u1ED3 \u00E1n m\u00F4n h\u1ECDc ntt\\qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\clothhub\\clothhub\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|solutionrelative:clothhub\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|g:\\\u0111\u1ED3 \u00E1n m\u00F4n h\u1ECDc ntt\\qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\clothhub\\clothhub\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|solutionrelative:clothhub\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|g:\\\u0111\u1ED3 \u00E1n m\u00F4n h\u1ECDc ntt\\qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\clothhub\\clothhub\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|solutionrelative:clothhub\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|g:\\\u0111\u1ED3 \u00E1n m\u00F4n h\u1ECDc ntt\\qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\clothhub\\clothhub\\controllers\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|solutionrelative:clothhub\\controllers\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|g:\\\u0111\u1ED3 \u00E1n m\u00F4n h\u1ECDc ntt\\qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\clothhub\\clothhub\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|solutionrelative:clothhub\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|g:\\\u0111\u1ED3 \u00E1n m\u00F4n h\u1ECDc ntt\\qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\clothhub\\clothhub\\models\\sizemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|solutionrelative:clothhub\\models\\sizemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|g:\\\u0111\u1ED3 \u00E1n m\u00F4n h\u1ECDc ntt\\qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\clothhub\\clothhub\\models\\brandmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|solutionrelative:clothhub\\models\\brandmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|g:\\\u0111\u1ED3 \u00E1n m\u00F4n h\u1ECDc ntt\\qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\clothhub\\clothhub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|solutionrelative:clothhub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|g:\\\u0111\u1ED3 \u00E1n m\u00F4n h\u1ECDc ntt\\qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\clothhub\\clothhub\\service\\auth\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|solutionrelative:clothhub\\service\\auth\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|g:\\\u0111\u1ED3 \u00E1n m\u00F4n h\u1ECDc ntt\\qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\clothhub\\clothhub\\config\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|solutionrelative:clothhub\\config\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|g:\\\u0111\u1ED3 \u00E1n m\u00F4n h\u1ECDc ntt\\qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\clothhub\\clothhub\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|c:\\users\\hope0\\desktop\\net_ci_cd-\\clothhub\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|solutionrelative:clothhub\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|g:\\\u0111\u1ED3 \u00E1n m\u00F4n h\u1ECDc ntt\\qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\clothhub\\clothhub\\models\\auth\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|c:\\users\\hope0\\desktop\\net_ci_cd-\\clothhub\\clothhub.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|solutionrelative:clothhub\\clothhub.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|c:\\users\\hope0\\desktop\\net_ci_cd-\\clothhub\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|solutionrelative:clothhub\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|c:\\users\\hope0\\desktop\\net_ci_cd-\\clothhub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|solutionrelative:clothhub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|c:\\users\\hope0\\desktop\\net_ci_cd-\\clothhub\\models\\appusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|solutionrelative:clothhub\\models\\appusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|c:\\users\\hope0\\desktop\\net_ci_cd-\\clothhub\\repositories\\identityseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|solutionrelative:clothhub\\repositories\\identityseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|c:\\users\\hope0\\desktop\\net_ci_cd-\\clothhub\\models\\orderdetailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|solutionrelative:clothhub\\models\\orderdetailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|c:\\users\\hope0\\desktop\\net_ci_cd-\\clothhub\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|solutionrelative:clothhub\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|c:\\users\\hope0\\desktop\\net_ci_cd-\\clothhub\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|solutionrelative:clothhub\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|c:\\users\\hope0\\desktop\\net_ci_cd-\\clothhub\\repositories\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|solutionrelative:clothhub\\repositories\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|c:\\users\\hope0\\desktop\\net_ci_cd-\\clothhub\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|solutionrelative:clothhub\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|c:\\users\\hope0\\desktop\\net_ci_cd-\\clothhub\\controllers\\sizecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|solutionrelative:clothhub\\controllers\\sizecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|c:\\users\\hope0\\desktop\\net_ci_cd-\\clothhub\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|solutionrelative:clothhub\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|c:\\users\\hope0\\desktop\\net_ci_cd-\\clothhub\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|solutionrelative:clothhub\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|c:\\users\\hope0\\desktop\\net_ci_cd-\\clothhub\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|solutionrelative:clothhub\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|c:\\users\\hope0\\desktop\\net_ci_cd-\\clothhub\\controllers\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|solutionrelative:clothhub\\controllers\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|c:\\users\\hope0\\desktop\\net_ci_cd-\\clothhub\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|solutionrelative:clothhub\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|c:\\users\\hope0\\desktop\\net_ci_cd-\\clothhub\\models\\sizemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|solutionrelative:clothhub\\models\\sizemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|c:\\users\\hope0\\desktop\\net_ci_cd-\\clothhub\\models\\brandmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|solutionrelative:clothhub\\models\\brandmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|c:\\users\\hope0\\desktop\\net_ci_cd-\\clothhub\\service\\auth\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|solutionrelative:clothhub\\service\\auth\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|c:\\users\\hope0\\desktop\\net_ci_cd-\\clothhub\\config\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|solutionrelative:clothhub\\config\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|c:\\users\\hope0\\desktop\\net_ci_cd-\\clothhub\\models\\auth\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|solutionrelative:clothhub\\models\\auth\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|g:\\\u0111\u1ED3 \u00E1n m\u00F4n h\u1ECDc ntt\\qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\clothhub\\clothhub\\service\\auth\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|c:\\users\\hope0\\desktop\\net_ci_cd-\\clothhub\\service\\auth\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|solutionrelative:clothhub\\service\\auth\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|g:\\\u0111\u1ED3 \u00E1n m\u00F4n h\u1ECDc ntt\\qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\clothhub\\clothhub\\models\\auth\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|c:\\users\\hope0\\desktop\\net_ci_cd-\\clothhub\\models\\auth\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|solutionrelative:clothhub\\models\\auth\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|g:\\\u0111\u1ED3 \u00E1n m\u00F4n h\u1ECDc ntt\\qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\clothhub\\clothhub\\models\\employeeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|c:\\users\\hope0\\desktop\\net_ci_cd-\\clothhub\\models\\employeeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|solutionrelative:clothhub\\models\\employeeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|g:\\\u0111\u1ED3 \u00E1n m\u00F4n h\u1ECDc ntt\\qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\clothhub\\clothhub\\models\\suppliermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|c:\\users\\hope0\\desktop\\net_ci_cd-\\clothhub\\models\\suppliermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|solutionrelative:clothhub\\models\\suppliermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -119,197 +123,60 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IdentitySeeder.cs",
-              "DocumentMoniker": "G:\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc NTT\\Qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\ClothHub\\ClothHub\\Repositories\\IdentitySeeder.cs",
-              "RelativeDocumentMoniker": "ClothHub\\Repositories\\IdentitySeeder.cs",
-              "ToolTip": "G:\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc NTT\\Qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\ClothHub\\ClothHub\\Repositories\\IdentitySeeder.cs",
-              "RelativeToolTip": "ClothHub\\Repositories\\IdentitySeeder.cs",
-              "ViewState": "AgIAAF0AAAAAAAAAAADwv3wAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-06T13:44:00.854Z",
+              "Title": "ClothHub.http",
+              "DocumentMoniker": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\ClothHub.http",
+              "RelativeDocumentMoniker": "ClothHub\\ClothHub.http",
+              "ToolTip": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\ClothHub.http",
+              "RelativeToolTip": "ClothHub\\ClothHub.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-08-13T02:16:26.348Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "BrandController.cs",
-              "DocumentMoniker": "G:\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc NTT\\Qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\ClothHub\\ClothHub\\Controllers\\BrandController.cs",
-              "RelativeDocumentMoniker": "ClothHub\\Controllers\\BrandController.cs",
-              "ToolTip": "G:\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc NTT\\Qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\ClothHub\\ClothHub\\Controllers\\BrandController.cs",
-              "RelativeToolTip": "ClothHub\\Controllers\\BrandController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-07T10:34:24.709Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "CategoryModel.cs",
-              "DocumentMoniker": "G:\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc NTT\\Qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\ClothHub\\ClothHub\\Models\\CategoryModel.cs",
+              "DocumentMoniker": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\Models\\CategoryModel.cs",
               "RelativeDocumentMoniker": "ClothHub\\Models\\CategoryModel.cs",
-              "ToolTip": "G:\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc NTT\\Qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\ClothHub\\ClothHub\\Models\\CategoryModel.cs",
-              "RelativeToolTip": "ClothHub\\Models\\CategoryModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\Models\\CategoryModel.cs*",
+              "RelativeToolTip": "ClothHub\\Models\\CategoryModel.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wCwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-06T07:22:21.633Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "OrderModel.cs",
-              "DocumentMoniker": "G:\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc NTT\\Qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\ClothHub\\ClothHub\\Models\\OrderModel.cs",
-              "RelativeDocumentMoniker": "ClothHub\\Models\\OrderModel.cs",
-              "ToolTip": "G:\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc NTT\\Qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\ClothHub\\ClothHub\\Models\\OrderModel.cs",
-              "RelativeToolTip": "ClothHub\\Models\\OrderModel.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwFcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-10T07:52:17.189Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "OrderDetailModel.cs",
-              "DocumentMoniker": "G:\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc NTT\\Qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\ClothHub\\ClothHub\\Models\\OrderDetailModel.cs",
+              "DocumentMoniker": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\Models\\OrderDetailModel.cs",
               "RelativeDocumentMoniker": "ClothHub\\Models\\OrderDetailModel.cs",
-              "ToolTip": "G:\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc NTT\\Qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\ClothHub\\ClothHub\\Models\\OrderDetailModel.cs",
+              "ToolTip": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\Models\\OrderDetailModel.cs",
               "RelativeToolTip": "ClothHub\\Models\\OrderDetailModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-10T07:53:09.21Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-10T07:53:09.21Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "AppUserModel.cs",
-              "DocumentMoniker": "G:\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc NTT\\Qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\ClothHub\\ClothHub\\Models\\AppUserModel.cs",
+              "DocumentMoniker": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\Models\\AppUserModel.cs",
               "RelativeDocumentMoniker": "ClothHub\\Models\\AppUserModel.cs",
-              "ToolTip": "G:\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc NTT\\Qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\ClothHub\\ClothHub\\Models\\AppUserModel.cs",
+              "ToolTip": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\Models\\AppUserModel.cs",
               "RelativeToolTip": "ClothHub\\Models\\AppUserModel.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-06T07:01:09.552Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-06T07:01:09.552Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "G:\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc NTT\\Qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\ClothHub\\ClothHub\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "ClothHub\\Controllers\\CategoryController.cs",
-              "ToolTip": "G:\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc NTT\\Qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\ClothHub\\ClothHub\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "ClothHub\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAD8BAAAAAAAAAAAAAGIBAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-07T01:59:49.06Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "G:\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc NTT\\Qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\ClothHub\\ClothHub\\Repositories\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "ClothHub\\Repositories\\AppDbContext.cs",
-              "ToolTip": "G:\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc NTT\\Qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\ClothHub\\ClothHub\\Repositories\\AppDbContext.cs",
-              "RelativeToolTip": "ClothHub\\Repositories\\AppDbContext.cs",
-              "ViewState": "AgIAANwAAAAAAAAAAAAQwPoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-06T07:02:50.98Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "G:\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc NTT\\Qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\ClothHub\\ClothHub\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "ClothHub\\Controllers\\AuthController.cs",
-              "ToolTip": "G:\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc NTT\\Qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\ClothHub\\ClothHub\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "ClothHub\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAJwBAAAAAAAAAAAAACkCAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-06T13:37:43.611Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "G:\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc NTT\\Qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\ClothHub\\ClothHub\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "ClothHub\\Controllers\\HomeController.cs",
-              "ToolTip": "G:\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc NTT\\Qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\ClothHub\\ClothHub\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "ClothHub\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAK8CAAAAAAAAAAAowLYCAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-10T04:11:23.783Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SizeController.cs",
-              "DocumentMoniker": "G:\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc NTT\\Qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\ClothHub\\ClothHub\\Controllers\\SizeController.cs",
-              "RelativeDocumentMoniker": "ClothHub\\Controllers\\SizeController.cs",
-              "ToolTip": "G:\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc NTT\\Qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\ClothHub\\ClothHub\\Controllers\\SizeController.cs",
-              "RelativeToolTip": "ClothHub\\Controllers\\SizeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-07T12:40:21.832Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "SettingsController.cs",
-              "DocumentMoniker": "G:\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc NTT\\Qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\ClothHub\\ClothHub\\Controllers\\SettingsController.cs",
-              "RelativeDocumentMoniker": "ClothHub\\Controllers\\SettingsController.cs",
-              "ToolTip": "G:\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc NTT\\Qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\ClothHub\\ClothHub\\Controllers\\SettingsController.cs",
-              "RelativeToolTip": "ClothHub\\Controllers\\SettingsController.cs",
-              "ViewState": "AgIAAGsCAAAAAAAAAAAUwHoCAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-09T14:23:14.306Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ProductModel.cs",
-              "DocumentMoniker": "G:\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc NTT\\Qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\ClothHub\\ClothHub\\Models\\ProductModel.cs",
-              "RelativeDocumentMoniker": "ClothHub\\Models\\ProductModel.cs",
-              "ToolTip": "G:\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc NTT\\Qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\ClothHub\\ClothHub\\Models\\ProductModel.cs",
-              "RelativeToolTip": "ClothHub\\Models\\ProductModel.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAwwHQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-06T07:24:02.858Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "G:\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc NTT\\Qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\ClothHub\\ClothHub\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "ClothHub\\Controllers\\ProductsController.cs",
-              "ToolTip": "G:\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc NTT\\Qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\ClothHub\\ClothHub\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "ClothHub\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAowB4AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-07T15:55:15.03Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "G:\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc NTT\\Qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\ClothHub\\ClothHub\\appsettings.json",
-              "RelativeDocumentMoniker": "ClothHub\\appsettings.json",
-              "ToolTip": "G:\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc NTT\\Qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\ClothHub\\ClothHub\\appsettings.json",
-              "RelativeToolTip": "ClothHub\\appsettings.json",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-08-06T13:42:46.59Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "G:\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc NTT\\Qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\ClothHub\\ClothHub\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\Program.cs",
               "RelativeDocumentMoniker": "ClothHub\\Program.cs",
-              "ToolTip": "G:\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc NTT\\Qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\ClothHub\\ClothHub\\Program.cs",
+              "ToolTip": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\Program.cs",
               "RelativeToolTip": "ClothHub\\Program.cs",
               "ViewState": "AgIAALABAAAAAAAAAAAAANcBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -317,11 +184,156 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\appsettings.json",
+              "RelativeDocumentMoniker": "ClothHub\\appsettings.json",
+              "ToolTip": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\appsettings.json*",
+              "RelativeToolTip": "ClothHub\\appsettings.json*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-06T13:42:46.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderModel.cs",
+              "DocumentMoniker": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\Models\\OrderModel.cs",
+              "RelativeDocumentMoniker": "ClothHub\\Models\\OrderModel.cs",
+              "ToolTip": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\Models\\OrderModel.cs",
+              "RelativeToolTip": "ClothHub\\Models\\OrderModel.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T07:52:17.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "ClothHub\\Controllers\\BrandController.cs",
+              "ToolTip": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "ClothHub\\Controllers\\BrandController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-07T10:34:24.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IdentitySeeder.cs",
+              "DocumentMoniker": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\Repositories\\IdentitySeeder.cs",
+              "RelativeDocumentMoniker": "ClothHub\\Repositories\\IdentitySeeder.cs",
+              "ToolTip": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\Repositories\\IdentitySeeder.cs",
+              "RelativeToolTip": "ClothHub\\Repositories\\IdentitySeeder.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAADwv3wAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T13:44:00.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "ClothHub\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "ClothHub\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAD8BAAAAAAAAAAAAAGIBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-07T01:59:49.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\Repositories\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ClothHub\\Repositories\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\Repositories\\AppDbContext.cs",
+              "RelativeToolTip": "ClothHub\\Repositories\\AppDbContext.cs",
+              "ViewState": "AgIAANwAAAAAAAAAAAAQwPoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T07:02:50.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ClothHub\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ClothHub\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAJwBAAAAAAAAAAAAACkCAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T13:37:43.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ClothHub\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ClothHub\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAK8CAAAAAAAAAAAowLYCAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T04:11:23.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SizeController.cs",
+              "DocumentMoniker": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\Controllers\\SizeController.cs",
+              "RelativeDocumentMoniker": "ClothHub\\Controllers\\SizeController.cs",
+              "ToolTip": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\Controllers\\SizeController.cs",
+              "RelativeToolTip": "ClothHub\\Controllers\\SizeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-07T12:40:21.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SettingsController.cs",
+              "DocumentMoniker": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\Controllers\\SettingsController.cs",
+              "RelativeDocumentMoniker": "ClothHub\\Controllers\\SettingsController.cs",
+              "ToolTip": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\Controllers\\SettingsController.cs",
+              "RelativeToolTip": "ClothHub\\Controllers\\SettingsController.cs",
+              "ViewState": "AgIAAGsCAAAAAAAAAAAUwHoCAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-09T14:23:14.306Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\Models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "ClothHub\\Models\\ProductModel.cs",
+              "ToolTip": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\Models\\ProductModel.cs",
+              "RelativeToolTip": "ClothHub\\Models\\ProductModel.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T07:24:02.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ClothHub\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ClothHub\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAowB4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-07T15:55:15.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "SizeModel.cs",
-              "DocumentMoniker": "G:\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc NTT\\Qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\ClothHub\\ClothHub\\Models\\SizeModel.cs",
+              "DocumentMoniker": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\Models\\SizeModel.cs",
               "RelativeDocumentMoniker": "ClothHub\\Models\\SizeModel.cs",
-              "ToolTip": "G:\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc NTT\\Qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\ClothHub\\ClothHub\\Models\\SizeModel.cs",
+              "ToolTip": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\Models\\SizeModel.cs",
               "RelativeToolTip": "ClothHub\\Models\\SizeModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -329,11 +341,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "BrandModel.cs",
-              "DocumentMoniker": "G:\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc NTT\\Qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\ClothHub\\ClothHub\\Models\\BrandModel.cs",
+              "DocumentMoniker": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\Models\\BrandModel.cs",
               "RelativeDocumentMoniker": "ClothHub\\Models\\BrandModel.cs",
-              "ToolTip": "G:\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc NTT\\Qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\ClothHub\\ClothHub\\Models\\BrandModel.cs",
+              "ToolTip": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\Models\\BrandModel.cs",
               "RelativeToolTip": "ClothHub\\Models\\BrandModel.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAowDUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -341,11 +353,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "JwtOptions.cs",
-              "DocumentMoniker": "G:\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc NTT\\Qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\ClothHub\\ClothHub\\Config\\JwtOptions.cs",
+              "DocumentMoniker": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\Config\\JwtOptions.cs",
               "RelativeDocumentMoniker": "ClothHub\\Config\\JwtOptions.cs",
-              "ToolTip": "G:\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc NTT\\Qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\ClothHub\\ClothHub\\Config\\JwtOptions.cs",
+              "ToolTip": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\Config\\JwtOptions.cs",
               "RelativeToolTip": "ClothHub\\Config\\JwtOptions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -353,11 +365,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "IJwtTokenService.cs",
-              "DocumentMoniker": "G:\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc NTT\\Qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\ClothHub\\ClothHub\\Service\\Auth\\IJwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\Service\\Auth\\IJwtTokenService.cs",
               "RelativeDocumentMoniker": "ClothHub\\Service\\Auth\\IJwtTokenService.cs",
-              "ToolTip": "G:\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc NTT\\Qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\ClothHub\\ClothHub\\Service\\Auth\\IJwtTokenService.cs",
+              "ToolTip": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\Service\\Auth\\IJwtTokenService.cs",
               "RelativeToolTip": "ClothHub\\Service\\Auth\\IJwtTokenService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -365,11 +377,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "RegisterModel.cs",
-              "DocumentMoniker": "G:\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc NTT\\Qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\ClothHub\\ClothHub\\Models\\Auth\\RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\Models\\Auth\\RegisterModel.cs",
               "RelativeDocumentMoniker": "ClothHub\\Models\\Auth\\RegisterModel.cs",
-              "ToolTip": "G:\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc NTT\\Qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\ClothHub\\ClothHub\\Models\\Auth\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\Models\\Auth\\RegisterModel.cs",
               "RelativeToolTip": "ClothHub\\Models\\Auth\\RegisterModel.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwAQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -377,11 +389,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "JwtTokenService.cs",
-              "DocumentMoniker": "G:\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc NTT\\Qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\ClothHub\\ClothHub\\Service\\Auth\\JwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\Service\\Auth\\JwtTokenService.cs",
               "RelativeDocumentMoniker": "ClothHub\\Service\\Auth\\JwtTokenService.cs",
-              "ToolTip": "G:\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc NTT\\Qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\ClothHub\\ClothHub\\Service\\Auth\\JwtTokenService.cs",
+              "ToolTip": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\Service\\Auth\\JwtTokenService.cs",
               "RelativeToolTip": "ClothHub\\Service\\Auth\\JwtTokenService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAIwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -389,11 +401,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "LoginModel.cs",
-              "DocumentMoniker": "G:\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc NTT\\Qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\ClothHub\\ClothHub\\Models\\Auth\\LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\Models\\Auth\\LoginModel.cs",
               "RelativeDocumentMoniker": "ClothHub\\Models\\Auth\\LoginModel.cs",
-              "ToolTip": "G:\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc NTT\\Qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\ClothHub\\ClothHub\\Models\\Auth\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\Models\\Auth\\LoginModel.cs",
               "RelativeToolTip": "ClothHub\\Models\\Auth\\LoginModel.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAxwFIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -401,11 +413,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "EmployeeInfo.cs",
-              "DocumentMoniker": "G:\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc NTT\\Qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\ClothHub\\ClothHub\\Models\\EmployeeInfo.cs",
+              "DocumentMoniker": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\Models\\EmployeeInfo.cs",
               "RelativeDocumentMoniker": "ClothHub\\Models\\EmployeeInfo.cs",
-              "ToolTip": "G:\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc NTT\\Qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\ClothHub\\ClothHub\\Models\\EmployeeInfo.cs",
+              "ToolTip": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\Models\\EmployeeInfo.cs",
               "RelativeToolTip": "ClothHub\\Models\\EmployeeInfo.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAwwAwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -413,11 +425,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "SupplierModel.cs",
-              "DocumentMoniker": "G:\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc NTT\\Qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\ClothHub\\ClothHub\\Models\\SupplierModel.cs",
+              "DocumentMoniker": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\Models\\SupplierModel.cs",
               "RelativeDocumentMoniker": "ClothHub\\Models\\SupplierModel.cs",
-              "ToolTip": "G:\\\u0110\u1ED3 \u00E1n m\u00F4n h\u1ECDc NTT\\Qu\u1EA3n l\u00FD qu\u1EA7n \u00E1o\\ClothHub\\ClothHub\\Models\\SupplierModel.cs",
+              "ToolTip": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\Models\\SupplierModel.cs",
               "RelativeToolTip": "ClothHub\\Models\\SupplierModel.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAxwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

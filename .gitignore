@@ -1,0 +1,35 @@
+## Bỏ qua các thư mục rác do Visual Studio tự sinh ra (Cực kỳ quan trọng)
+.vs/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+## Bỏ qua các file cấu hình cá nhân của người dùng
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+## Bỏ qua các thư mục Build kết quả
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+
+## Bỏ qua các file cache của NuGet
+project.lock.json
+project.assets.json
+*.nuget.props
+*.nuget.targets
+
+## Bỏ qua file rác của hệ điều hành (nếu có làm việc trên Mac)
+.DS_Store
