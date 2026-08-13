@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClothHub")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8cd89f0295109884cf09a8ad871bddfca5eb5a4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+228053a7357a85ca843df72506223e7f5f6a598f")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClothHub")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClothHub")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
