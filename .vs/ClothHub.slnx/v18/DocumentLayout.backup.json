@@ -11,12 +11,12 @@
       "RelativeMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|solutionrelative:clothhub\\clothhub.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|c:\\users\\hope0\\desktop\\net_ci_cd-\\clothhub\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|solutionrelative:clothhub\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|c:\\users\\hope0\\desktop\\net_ci_cd-\\clothhub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|solutionrelative:clothhub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|c:\\users\\hope0\\desktop\\net_ci_cd-\\clothhub\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|solutionrelative:clothhub\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{77379678-FCEA-5A8B-5956-D5F74140A975}|ClothHub\\ClothHub.csproj|c:\\users\\hope0\\desktop\\net_ci_cd-\\clothhub\\models\\appusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -135,12 +135,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CategoryModel.cs",
               "DocumentMoniker": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\Models\\CategoryModel.cs",
               "RelativeDocumentMoniker": "ClothHub\\Models\\CategoryModel.cs",
-              "ToolTip": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\Models\\CategoryModel.cs*",
-              "RelativeToolTip": "ClothHub\\Models\\CategoryModel.cs*",
+              "ToolTip": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\Models\\CategoryModel.cs",
+              "RelativeToolTip": "ClothHub\\Models\\CategoryModel.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAA1wCwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-06T07:22:21.633Z",
@@ -172,15 +172,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\Program.cs",
               "RelativeDocumentMoniker": "ClothHub\\Program.cs",
               "ToolTip": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\Program.cs",
               "RelativeToolTip": "ClothHub\\Program.cs",
-              "ViewState": "AgIAALABAAAAAAAAAAAAANcBAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAJABAAAAAAAAAAAiwLgBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-06T07:11:40.25Z"
+              "WhenOpened": "2026-08-06T07:11:40.25Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -188,9 +189,9 @@
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\appsettings.json",
               "RelativeDocumentMoniker": "ClothHub\\appsettings.json",
-              "ToolTip": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\appsettings.json*",
-              "RelativeToolTip": "ClothHub\\appsettings.json*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\hope0\\Desktop\\Net_CI_CD-\\ClothHub\\appsettings.json",
+              "RelativeToolTip": "ClothHub\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-08-06T13:42:46.59Z",
               "EditorCaption": ""

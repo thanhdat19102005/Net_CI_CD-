@@ -423,8 +423,6 @@ var app =
 // 9. DEVELOPMENT
 // ==================================================
 
-if (app.Environment.IsDevelopment())
-{
     app.UseSwagger();
 
     app.UseSwaggerUI();
@@ -447,7 +445,7 @@ if (app.Environment.IsDevelopment())
         scope.ServiceProvider,
         builder.Configuration
     );
-}
+
 
 // ==================================================
 // 10. MIDDLEWARE PIPELINE
