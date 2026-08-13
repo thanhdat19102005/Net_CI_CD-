@@ -19,7 +19,7 @@ pipeline {
                 checkout scm 
             }
         }
-    
+
         stage('2. Stop IIS Server (Bảo trì)') {
             steps {
                 // Lấy chìa khóa từ két sắt
@@ -67,3 +67,6 @@ pipeline {
             }
         }
     }
+}
+
+
